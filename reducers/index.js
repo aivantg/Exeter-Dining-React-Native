@@ -1,9 +1,9 @@
 import { menus } from './menus';
-import { config } from './config';
+import { menuData } from './menuData';
 import { dishes } from './dishes';
 
 const reducers = {
-  config,
+  menuData,
   menus,
   dishes
 };
